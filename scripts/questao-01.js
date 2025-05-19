@@ -10,7 +10,7 @@ for (let i = 0; i < idades.length; i++) {
     if (idades[i] >18) {
         maioresDeIdade ++;
     } else {
-        menoresDeIdade += 1;
+        menoresDeIdade ++;
     }  
 }
 
